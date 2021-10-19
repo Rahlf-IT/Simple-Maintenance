@@ -1,11 +1,11 @@
-# Simple-Maintainance
-Simple Maintainance - Website/Page
+# Simple-Maintenance
+Simple Maintenance - Website/Page
 
 
 
 //
 
-One-File Maintainance Webpage. Free-To-Use.
+One-File Maintenance Webpage. Free-To-Use.
 
 How to use:
 
